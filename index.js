@@ -1,3 +1,5 @@
+#!/usr/bin/env -S node --use_strict --experimental-specifier-resolution=node
+
 import {createHash} from 'crypto'
 
 /**
